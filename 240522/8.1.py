@@ -9,16 +9,6 @@ Legajo | Nota
       5|    2
 """
 
-# lista = [4,12,5,5,7,3,3,5,7]
-# listaOrdenada = []
-
-# cont = 0
-
-# while cont < len(lista):
-#   for i in range(0, len(lista)):
-
-
-
 legajos = [
   [1, 4],
   [5, 2],
